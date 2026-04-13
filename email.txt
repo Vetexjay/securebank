@@ -1,8 +1,8 @@
-SECUREBANK SECURITY ALERT
+PAYPAL SECURITY ALERT
 
 Dear {{.FirstName}},
 
-We have detected unusual activity on your SecureBank account ending in ****3847.
+We have detected unusual activity on your PayPal account ending in ****gmail.com.
 
 SUSPICIOUS TRANSACTIONS FLAGGED:
 - Attempted login from unrecognized device (Moscow, Russia)
@@ -21,13 +21,13 @@ If you do not recognize this activity, your account may be compromised. Act imme
 
 Time remaining to verify: 24 hours
 
-SecureBank Security Team
-1-800-SECURE-1
-security@securebank.com
+Paypal Security Team
+1-800-PAYPAL-1
+service@intl.paypal.com
 
 ---
 DO NOT REPLY TO THIS EMAIL
-This is an automated security alert from SecureBank fraud prevention system.
+This is an automated security alert from PayPal fraud prevention system.
 
 ---
 This is a security awareness training exercise.
